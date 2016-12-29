@@ -1,0 +1,1 @@
+# DR_list_generator : A crowd sourced department rank list generator. Enter your details, after that you can view the department rank of any other roll number, but not the CPI. Would be very helpful as many a times departments dont release the official rank lists.
